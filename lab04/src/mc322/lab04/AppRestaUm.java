@@ -19,4 +19,13 @@ public class AppRestaUm {
         }
         return saidas;
     }
+
+    public static void main(String[] args) {
+        String saidas[] = AppRestaUm.executaJogo(args[0]);
+        System.out.println("--//--//--//--//--//--//--//--//--//--//--//--//--//--//--");
+        System.out.println("Estado do tabuleiro a cada etapa do movimento: \n");
+        for (int i = 0; i < saidas.length; i ++) {
+            System.out.println(saidas[i]);
+        }
+    }
 }
