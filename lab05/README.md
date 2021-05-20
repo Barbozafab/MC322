@@ -9,5 +9,5 @@ Para acionar o jogo (Versão B), forneça ao programa dois argumentos:
 * Caminho (PATH) de um arquivo CSV em que a saída do programa será anotada.
 
 ## Arquivos Java sobre Damas
-[Arquivos - Versão A](src/mc322/lab05a)
-[Arquivos - Versão B](src/mc322/lab05b)
+* [Arquivos - Versão A](src/mc322/lab05a)
+* [Arquivos - Versão B](src/mc322/lab05b)
